@@ -24,5 +24,9 @@
     - ->
     
     - 4 . used the loop and connect to google sheet and  cosmos db 
+
+- Ref:
+
+    - https://www.youtube.com/watch?v=x6qwOZvYrHI&t=387s
     
     
